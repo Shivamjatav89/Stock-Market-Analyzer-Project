@@ -16,8 +16,8 @@ This repository contains a comprehensive data analysis of stock market trends. W
 - `/visuals`: Graphs, charts, and dashboards.
 
 ### 👥 Our Team
-* **Prateek Panpatil** - Project Lead & Repo Manager
-* **Kiran Teja** - Data Analyst
-* **Soham** - Visualization Expert
-* **Shivam Kumar** - Data Cleaning
-* **Tarun Kumar** - Documentation
+- **Prateek Panpatil** - Project Lead & Repo Manager
+- **Kiran Teja** - Data Analyst
+- **Soham** - Visualization Expert
+- **Shivam Kumar** - Data Cleaning
+- **Tarun Kumar** - Documentation
